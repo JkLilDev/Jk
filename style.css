@@ -213,7 +213,7 @@ h2::selection {
   width: 90vw;
   max-width: 500px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-  text-align: left;
+  text-align: center;
   position: relative;
   animation: scaleIn 0.3s ease-in-out;
 }
